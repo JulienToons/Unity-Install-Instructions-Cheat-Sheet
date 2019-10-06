@@ -56,8 +56,8 @@ Unity used to support the following languages:
 | **C#**         | THE ***BEST*** | Has alot of ready-to-use functions and is easy to learn & understand + The synatx is similar to that in Java|
 | **JavaScript** | *NOT Recommended* | Less Librararies and ready to use functions & classes |
 | **C++**        | For Experts Only | Allows you to program the Unity Engine itself |
-| **Boo**        | Old & Unrecommended | Has a syntax similar to Python |
-| **IronPython** | Old & Unrecommended | Has a syntax similar to Python |
+| **Boo**        | Old & not recommended | Has a syntax similar to Python |
+| **IronPython** | Old & not recommended | Has a syntax similar to Python |
 | **Scratch**    | For Beginners | Uses Block Code similar to that in Scratch. **Dont use!**|
 
 Now they only support C# and C++ so...
