@@ -24,7 +24,7 @@ You can use clickup online &/or download the app on your phone
 
 ### 2. Download Unity
 Install Unity Hub Personal (It might say it is Unity 2019.2.4 Personal)
-[*HERE*](https://store.unity.com/download)
+[*Here*](https://store.unity.com/download)
 . You will need to allow the program to do whatever it needs to. 
 Then Open
 
@@ -39,7 +39,7 @@ Click NEXT and add the following modules:
 Click NEXT. The Program will take about **40 Min.** to install.
 
 Once you installed Unity, open 
-[this](../blob/master/LICENSE The Unity Program)
+[the test file](testUnityGame)
  with Unity 2019 (or through Unity Hub) to make sure it installed correctly.
 
 On the top right, go to Account and sign in to your Unity Account (make one if you havn't already)
