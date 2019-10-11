@@ -2,25 +2,29 @@
  Our Git. Repository for whatever we do at this hackathon
 
 ## Contents:
-1. Create Clickup Account
+1. ~~Create Clickup Account~~
 2. Download Unity and unity collaborator extension if possible
-3. Look at C# vs JS for Unity
+3. Look at C# ~~vs JS~~ for Unity
+
+----
 
 ## Instructions
-### 1. Create a Clickup Account
-Go To 
+### 1. ~~Create a Clickup Account~~
+~~Go To 
 [Clickup](https://www.google.com "Google's Homepage")
- and Create an account
+ and Create an account~~
 	
-Send me (Julien) the email you used.
+~~Send me (Julien) the email you used.~~
 
-Once I add you, check out the board, list, and box views
+~~Once I add you, check out the board, list, and box views~~
 
-Go 
+~~Go 
 [*HERE*](https://clickup.com/views)
-to see an example of each view
+to see an example of each view~~
 
-You can use clickup online &/or download the app on your phone
+~~You can use clickup online &/or download the app on your phone~~
+
+---
 
 ### 2. Download Unity
 Install Unity Hub Personal (It might say it is Unity 2019.2.4 Personal)
@@ -63,6 +67,8 @@ Unity used to support the following languages:
 Now they only support C# and C++ so...
 
 We will be using C# for Unity
+
+---
 
 ##### C# Cheat Sheet
 ```C#
