@@ -5,6 +5,7 @@
 1. ~~Create Clickup Account~~
 2. Download Unity and unity collaborator extension if possible
 3. Look at C# ~~vs JS~~ for Unity
+4. Check out Google Maps 3D api
 
 ----
 
@@ -154,6 +155,9 @@ public class Person
    }
 }
 ```
+### Check out Google Maps 3D
+
+HERE: https://cloud.google.com/maps-platform/gaming/?utm_campaign=maps_update_googlemapsapis_040918&utm_medium=yt-desc&utm_source=gdev
 
 
 
